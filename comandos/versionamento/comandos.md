@@ -19,5 +19,3 @@
 
 - git pull origin "branch"
   - Atualiza a branch indicada no repositório local de acordo com o repositório remoto
-
-a
