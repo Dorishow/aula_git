@@ -4,7 +4,7 @@
 
   - Adiciona em staging (prepara para versionar)
 
-- git checkout -b "nome da branch nova"
+- git checkout -b
 
   - Cria uma branch nova ("Coloca um nome no estado da aplicação")
 
@@ -19,5 +19,3 @@
 
 - git pull origin "branch"
   - Atualiza a branch indicada no repositório local de acordo com o repositório remoto
-
-a
