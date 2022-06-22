@@ -4,7 +4,7 @@
 
   - Adiciona em staging (prepara para versionar)
 
-- git checkout -b
+- git checkout -b "nome da branch"
 
   - Cria uma branch nova ("Coloca um nome no estado da aplicação")
 
